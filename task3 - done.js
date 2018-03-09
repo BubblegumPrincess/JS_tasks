@@ -25,7 +25,7 @@ function sum(a){
 
   /*
   you need to open the console and write
-  console.log(firstNumber)(secondNumber)(thirdNumber)(andSoOn)
+  console.log(sum(firstNumber)(secondNumber)(thirdNumber)(andSoOn))
   and press enter
   and you get as the result - sum of numbers, that were in brackets
   */
