@@ -142,3 +142,4 @@ function steal (amount) {
 
 var amount = steal(1250);
 console.log ("Criminal: there's only " + balance + " money on count left!"); //9250
+
